@@ -5,3 +5,5 @@ Executes commands within a File or URL
 ## Commands
 - FileSay.filesay: /filesay {Interval} {Path to File}
 - FileSay.websay: /filesay {Interval} {URL to File}
+
+For questions contact me on Discord: Tamion#7835
