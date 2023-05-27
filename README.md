@@ -1,7 +1,7 @@
 # FileSay
-Executes commands that are stored within a textfile
+Executes commands within a File or URL
 ## Usage
-- /FileSay {Path to File}
-- Example: If you have a text file with the name TextFile in the Folder of your server you would have to use /FileSay ./TextFile.txt
+- /FileSay {Interval in ms} {URL/Path to File}
 ## Commands
-- FileSay.filesay: /filesay
+- FileSay.filesay: /filesay {Interval} {Path to File}
+- FileSay.websay: /filesay {Interval} {URL to File}

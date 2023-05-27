@@ -3,7 +3,7 @@ version: '${project.version}'
 main: de.tamion.FileSay
 api-version: 1.19
 authors: [Tamion]
-description: Executes commands that are stored within a textfile
+description: Executes commands within a File or URL
 
 commands:
   filesay:
