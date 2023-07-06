@@ -11,6 +11,8 @@ public final class FileSay extends JavaPlugin {
     public void onEnable() {
         plugin = this;
         getCommand("filesay").setExecutor(new FileSayCommand());
+
+        Metrics metrics = new Metrics(this, 19008);
     }
 
     @Override
